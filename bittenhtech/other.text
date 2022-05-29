@@ -1,3 +1,0 @@
-len(), upper(), lower(), swapcase(),
-replace(), split(), strip(), listrip(),
-rstrip(), isalpha(), isalnum(), isdigit()
